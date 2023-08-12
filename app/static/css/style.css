@@ -28,6 +28,12 @@ header  {
     margin-left: 10px;
 }
 
+.cart   {
+    cursor: pointer;
+    max-height: 50px;
+    margin-left: 10px;
+}
+
 .nav__links {
     list-style: none;
 }
